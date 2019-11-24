@@ -1,6 +1,8 @@
 import React from 'react';
 import "./App.js"
 import {hot} from "react-hot-loader";
+
+
 const App = () =>
     <div>
         <h1> Hello, World! Are You Hot Loading? </h1>

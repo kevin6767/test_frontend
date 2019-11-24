@@ -1,0 +1,4 @@
+Keep
+It
+Simple
+Stupid
