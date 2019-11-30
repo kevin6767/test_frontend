@@ -5,9 +5,8 @@ import Header from './components/Header.js'
 
 
 const App = () =>
-    <div>
+    <div >
         <Header />
-        <h1> Hello, World! Are You Hot Loading? </h1>
     </div>
 
 export default hot(module)(App);
